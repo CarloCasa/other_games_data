@@ -2,13 +2,13 @@
    "games": [
     {
       "id": "1",
-      "title":      "Full Metal Sergeant 2",
+      "title":      "A boot cmap wasn't enough?",
       "steam_url": "https://store.steampowered.com/app/3130170/Full_Metal_Sergeant_2",
       "image_url": "https://raw.githubusercontent.com/CarloCasa/other_games_data/refs/heads/main/fms2.jpg"
     },
     {
       "id": "2",
-      "title":      "Last Card Dungeon",
+      "title":      "Wanna adventure in a dungeon with your cursed soul?",
       "steam_url": "https://store.steampowered.com/app/3921690/Last_Card_Dungeon/",
       "image_url": "https://raw.githubusercontent.com/CarloCasa/other_games_data/refs/heads/main/lcd.jpg"
     }
