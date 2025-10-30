@@ -11,6 +11,12 @@
       "title":      "Wanna adventure in a dungeon with your cursed soul?",
       "steam_url": "https://store.steampowered.com/app/3921690/Last_Card_Dungeon/",
       "image_url": "https://raw.githubusercontent.com/CarloCasa/other_games_data/refs/heads/main/lcd.jpg"
+    },
+     {
+      "id": "3",
+      "title":      "Until the Last Plane",
+      "steam_url": "https://store.steampowered.com/app/1240550/Until_the_Last_Plane/",
+      "image_url": "https://raw.githubusercontent.com/CarloCasa/other_games_data/refs/heads/main/utlp.png"
     }
   ]
 }
